@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.appfirebaseauth.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.example.appfirebaseauth.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.appfirebaseauth.app-mergeDebugResources-51:/layout/activity_login.xml",
+        "source": "com.example.appfirebaseauth.app-main-54:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.appfirebaseauth.app-mergeDebugResources-51:/layout/activity_cadastro.xml",
+        "source": "com.example.appfirebaseauth.app-main-54:/layout/activity_cadastro.xml"
+    }
+]

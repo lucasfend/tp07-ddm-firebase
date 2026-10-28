@@ -1,0 +1,798 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.databinding:viewbinding:9.3.2] /home/fend/.gradle/caches/9.5.0/transforms/30a3633d12d54b8da881a6390abeffec/transformed/viewbinding-9.3.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:2:1-119:12
+MERGED from [com.google.android.material:material:1.14.0] /home/fend/.gradle/caches/9.5.0/transforms/66e776011e3855afbb532287271764b5/transformed/material-1.14.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /home/fend/.gradle/caches/9.5.0/transforms/99fe8be65c7779fb5fb236b0557e92b3/transformed/constraintlayout-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /home/fend/.gradle/caches/9.5.0/transforms/5cbce7d1adfb4b77bb3e9255f15466fb/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.8.0] /home/fend/.gradle/caches/9.5.0/transforms/205ff98e49da68e91b83a68680465e92/transformed/appcompat-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/d09be55833f7ca182fd9bff616444f4f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/29b38048bacc064d6342ed11c78d3d21/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c5ebbb5fec2bcbdad43ab4a3ae6948af/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/053fc13ae2d042d4a0519e9918dd3f8e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/ec621071488bf37ed1d642df7998c895/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/7beb4c6a1009b7cdbfe5a95b6ed270e3/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/9b078c6473127ee153f73ec767ec9ca3/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/fend/.gradle/caches/9.5.0/transforms/9fa1db5770e8f7244546aaf25fa0191a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/76915eb33b01e57d8191a9d6b6132de2/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/fend/.gradle/caches/9.5.0/transforms/13068a606f9f41bf56fd28be9388a003/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/0651d46bf35ea003dcd14f9988326828/transformed/integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/fend/.gradle/caches/9.5.0/transforms/69d493bc238c1820df56dc74ca5b7bb9/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/fend/.gradle/caches/9.5.0/transforms/f9ce1131231c95f564c258055f5e8153/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/fend/.gradle/caches/9.5.0/transforms/7eb70e8a18a6090dac98d60109da7bd8/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/fend/.gradle/caches/9.5.0/transforms/2555c005f1aac994097c9a9c08f702dc/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.13.0] /home/fend/.gradle/caches/9.5.0/transforms/7150aedfeee972c34e21001dad74f1a8/transformed/activity-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.13.0] /home/fend/.gradle/caches/9.5.0/transforms/2965bb782ce65869ba352b804cf7c345/transformed/activity-1.13.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1e631b606d0252a5620c20e2514b8f82/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/8b8c3860028cfbe317d955a21a3dfb54/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/45a486e31622b683add6f5f22ada29ff/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/f348cd27fd0c3257db166b7388610506/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/bf782e6378f6866c6713c90a7d473f9a/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/b2309a94a5c1a72398bd69779f3befa6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/73864cfd39d19fbe4cddb73110b8cabe/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/c092fe20764ae6c1109ad43127cb90ae/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/f136a9285099fa911a1e8c05451d3740/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/a2a00810a38430a7fbb5bb0f1de900c2/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/6ab6b8f7e51826083f2c44c9fbc08da1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/5da8050eacb6c1d09d395df780921770/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/050c9c82e2db0ebce68e3ebf62983baf/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/fend/.gradle/caches/9.5.0/transforms/ff4b2e53005df51c61430596881ce39f/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/fend/.gradle/caches/9.5.0/transforms/0aa9651d546a89ef03bdca90b2f321ea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/fend/.gradle/caches/9.5.0/transforms/c9b0b6f4909885fdac81dbd9781441c7/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1420669f68470cac39f79d783e4b1fe3/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/8e6822c70db45964c754ab1a8e19481f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.2.0] /home/fend/.gradle/caches/9.5.0/transforms/bea26e33e880563f5bbc45c6f6f8c9ae/transformed/customview-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.5.0] /home/fend/.gradle/caches/9.5.0/transforms/1415648f6751b79fa77c6c0dd7dbe9f8/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/8d81e87a4d1211b2129836e957cbe4b0/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/1771c8eca8ee93df71c9c54b03e051f6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/10835881c02ef0d9a5d31abcf03003e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/fbee35dc2100a455c4699d7d50fc2c5c/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c956f798c6865e2f636c76e184f89697/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/81a11ca0c2c19a59a3836d2f8e895e40/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/3ca6714a89f89563369fee8c36aee852/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/fend/.gradle/caches/9.5.0/transforms/bf644b7349894a9799476ae6e5b80271/transformed/graphics-shapes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/69d25f31276594bf227f84508b470a0f/transformed/core-ktx-1.19.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/fend/.gradle/caches/9.5.0/transforms/bfb8387c231f45aaf17f760d9866ba2b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c65212a90474b370f59706277b6df10c/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/2105686e1504d61ce4c10aabd026b9ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/c297000f72d4c3e438e5eb447e613663/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1b7d6b89cd77a16e008da1ff46d726a9/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/8534cf67b4dd7139f043dec56c6d93b4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/a23c2f841721f2a80a1a7a34e243b0b5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/fend/.gradle/caches/9.5.0/transforms/450457729fa6fe2222bd3e4f4c5102fc/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1f21ba7baa0a2ddfed88eb994956fb30/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/d0d49798a0d050e3e9a6dd6d91f31727/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/fend/.gradle/caches/9.5.0/transforms/ba33f5e1cc0fee0371a30e4885e9ac37/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/fc949c28144f78f83ac3e2d6050a7dd8/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/65ccea2c49cb38e6863e5e9cf324ac3c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/fend/.gradle/caches/9.5.0/transforms/e82a144d4ff9c5cc710593c498a20e84/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/fend/.gradle/caches/9.5.0/transforms/198f646ebd417043849d186e6bde1738/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:7:5-35:19
+INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:7:5-35:19
+MERGED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:25:5-117:19
+MERGED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:25:5-117:19
+MERGED from [com.google.android.material:material:1.14.0] /home/fend/.gradle/caches/9.5.0/transforms/66e776011e3855afbb532287271764b5/transformed/material-1.14.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.14.0] /home/fend/.gradle/caches/9.5.0/transforms/66e776011e3855afbb532287271764b5/transformed/material-1.14.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /home/fend/.gradle/caches/9.5.0/transforms/99fe8be65c7779fb5fb236b0557e92b3/transformed/constraintlayout-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /home/fend/.gradle/caches/9.5.0/transforms/99fe8be65c7779fb5fb236b0557e92b3/transformed/constraintlayout-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/fend/.gradle/caches/9.5.0/transforms/9fa1db5770e8f7244546aaf25fa0191a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/fend/.gradle/caches/9.5.0/transforms/9fa1db5770e8f7244546aaf25fa0191a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/0651d46bf35ea003dcd14f9988326828/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/0651d46bf35ea003dcd14f9988326828/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/fend/.gradle/caches/9.5.0/transforms/69d493bc238c1820df56dc74ca5b7bb9/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/fend/.gradle/caches/9.5.0/transforms/69d493bc238c1820df56dc74ca5b7bb9/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/fend/.gradle/caches/9.5.0/transforms/f9ce1131231c95f564c258055f5e8153/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/fend/.gradle/caches/9.5.0/transforms/f9ce1131231c95f564c258055f5e8153/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/fend/.gradle/caches/9.5.0/transforms/7eb70e8a18a6090dac98d60109da7bd8/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/fend/.gradle/caches/9.5.0/transforms/7eb70e8a18a6090dac98d60109da7bd8/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/fend/.gradle/caches/9.5.0/transforms/ff4b2e53005df51c61430596881ce39f/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/fend/.gradle/caches/9.5.0/transforms/ff4b2e53005df51c61430596881ce39f/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/fend/.gradle/caches/9.5.0/transforms/0aa9651d546a89ef03bdca90b2f321ea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/fend/.gradle/caches/9.5.0/transforms/0aa9651d546a89ef03bdca90b2f321ea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/2105686e1504d61ce4c10aabd026b9ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/2105686e1504d61ce4c10aabd026b9ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/d0d49798a0d050e3e9a6dd6d91f31727/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/d0d49798a0d050e3e9a6dd6d91f31727/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:13:9-54
+	tools:targetApi
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:15:9-53
+	android:dataExtractionRules
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:9:9-65
+activity#com.example.appfirebaseauth.view.LoginActivity
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:exported
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:19:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.appfirebaseauth.view.CadastroActivity
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:28:13-50
+activity#com.example.appfirebaseauth.view.MainActivity
+ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml:32:13-46
+uses-sdk
+INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml
+INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:9.3.2] /home/fend/.gradle/caches/9.5.0/transforms/30a3633d12d54b8da881a6390abeffec/transformed/viewbinding-9.3.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:9.3.2] /home/fend/.gradle/caches/9.5.0/transforms/30a3633d12d54b8da881a6390abeffec/transformed/viewbinding-9.3.2/AndroidManifest.xml:5:5-44
+MERGED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.14.0] /home/fend/.gradle/caches/9.5.0/transforms/66e776011e3855afbb532287271764b5/transformed/material-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.14.0] /home/fend/.gradle/caches/9.5.0/transforms/66e776011e3855afbb532287271764b5/transformed/material-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /home/fend/.gradle/caches/9.5.0/transforms/99fe8be65c7779fb5fb236b0557e92b3/transformed/constraintlayout-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /home/fend/.gradle/caches/9.5.0/transforms/99fe8be65c7779fb5fb236b0557e92b3/transformed/constraintlayout-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /home/fend/.gradle/caches/9.5.0/transforms/5cbce7d1adfb4b77bb3e9255f15466fb/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /home/fend/.gradle/caches/9.5.0/transforms/5cbce7d1adfb4b77bb3e9255f15466fb/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] /home/fend/.gradle/caches/9.5.0/transforms/205ff98e49da68e91b83a68680465e92/transformed/appcompat-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] /home/fend/.gradle/caches/9.5.0/transforms/205ff98e49da68e91b83a68680465e92/transformed/appcompat-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/d09be55833f7ca182fd9bff616444f4f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/d09be55833f7ca182fd9bff616444f4f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/29b38048bacc064d6342ed11c78d3d21/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/29b38048bacc064d6342ed11c78d3d21/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c5ebbb5fec2bcbdad43ab4a3ae6948af/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c5ebbb5fec2bcbdad43ab4a3ae6948af/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/053fc13ae2d042d4a0519e9918dd3f8e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/053fc13ae2d042d4a0519e9918dd3f8e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/ec621071488bf37ed1d642df7998c895/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/ec621071488bf37ed1d642df7998c895/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/7beb4c6a1009b7cdbfe5a95b6ed270e3/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/7beb4c6a1009b7cdbfe5a95b6ed270e3/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/9b078c6473127ee153f73ec767ec9ca3/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/9b078c6473127ee153f73ec767ec9ca3/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/fend/.gradle/caches/9.5.0/transforms/9fa1db5770e8f7244546aaf25fa0191a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/fend/.gradle/caches/9.5.0/transforms/9fa1db5770e8f7244546aaf25fa0191a/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/76915eb33b01e57d8191a9d6b6132de2/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/76915eb33b01e57d8191a9d6b6132de2/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/fend/.gradle/caches/9.5.0/transforms/13068a606f9f41bf56fd28be9388a003/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/fend/.gradle/caches/9.5.0/transforms/13068a606f9f41bf56fd28be9388a003/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/0651d46bf35ea003dcd14f9988326828/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/0651d46bf35ea003dcd14f9988326828/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/fend/.gradle/caches/9.5.0/transforms/69d493bc238c1820df56dc74ca5b7bb9/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/fend/.gradle/caches/9.5.0/transforms/69d493bc238c1820df56dc74ca5b7bb9/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/fend/.gradle/caches/9.5.0/transforms/f9ce1131231c95f564c258055f5e8153/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/fend/.gradle/caches/9.5.0/transforms/f9ce1131231c95f564c258055f5e8153/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/fend/.gradle/caches/9.5.0/transforms/7eb70e8a18a6090dac98d60109da7bd8/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/fend/.gradle/caches/9.5.0/transforms/7eb70e8a18a6090dac98d60109da7bd8/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/fend/.gradle/caches/9.5.0/transforms/2555c005f1aac994097c9a9c08f702dc/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/fend/.gradle/caches/9.5.0/transforms/2555c005f1aac994097c9a9c08f702dc/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.activity:activity-ktx:1.13.0] /home/fend/.gradle/caches/9.5.0/transforms/7150aedfeee972c34e21001dad74f1a8/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /home/fend/.gradle/caches/9.5.0/transforms/7150aedfeee972c34e21001dad74f1a8/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.13.0] /home/fend/.gradle/caches/9.5.0/transforms/2965bb782ce65869ba352b804cf7c345/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] /home/fend/.gradle/caches/9.5.0/transforms/2965bb782ce65869ba352b804cf7c345/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1e631b606d0252a5620c20e2514b8f82/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1e631b606d0252a5620c20e2514b8f82/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/8b8c3860028cfbe317d955a21a3dfb54/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/8b8c3860028cfbe317d955a21a3dfb54/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/45a486e31622b683add6f5f22ada29ff/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/45a486e31622b683add6f5f22ada29ff/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/f348cd27fd0c3257db166b7388610506/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/f348cd27fd0c3257db166b7388610506/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/bf782e6378f6866c6713c90a7d473f9a/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/bf782e6378f6866c6713c90a7d473f9a/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/b2309a94a5c1a72398bd69779f3befa6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/b2309a94a5c1a72398bd69779f3befa6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/73864cfd39d19fbe4cddb73110b8cabe/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/73864cfd39d19fbe4cddb73110b8cabe/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/c092fe20764ae6c1109ad43127cb90ae/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/c092fe20764ae6c1109ad43127cb90ae/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/f136a9285099fa911a1e8c05451d3740/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/f136a9285099fa911a1e8c05451d3740/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/a2a00810a38430a7fbb5bb0f1de900c2/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/a2a00810a38430a7fbb5bb0f1de900c2/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/6ab6b8f7e51826083f2c44c9fbc08da1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/6ab6b8f7e51826083f2c44c9fbc08da1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/5da8050eacb6c1d09d395df780921770/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/5da8050eacb6c1d09d395df780921770/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/050c9c82e2db0ebce68e3ebf62983baf/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/fend/.gradle/caches/9.5.0/transforms/050c9c82e2db0ebce68e3ebf62983baf/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/fend/.gradle/caches/9.5.0/transforms/ff4b2e53005df51c61430596881ce39f/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/fend/.gradle/caches/9.5.0/transforms/ff4b2e53005df51c61430596881ce39f/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/fend/.gradle/caches/9.5.0/transforms/0aa9651d546a89ef03bdca90b2f321ea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/fend/.gradle/caches/9.5.0/transforms/0aa9651d546a89ef03bdca90b2f321ea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /home/fend/.gradle/caches/9.5.0/transforms/c9b0b6f4909885fdac81dbd9781441c7/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/fend/.gradle/caches/9.5.0/transforms/c9b0b6f4909885fdac81dbd9781441c7/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1420669f68470cac39f79d783e4b1fe3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1420669f68470cac39f79d783e4b1fe3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/8e6822c70db45964c754ab1a8e19481f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/8e6822c70db45964c754ab1a8e19481f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.2.0] /home/fend/.gradle/caches/9.5.0/transforms/bea26e33e880563f5bbc45c6f6f8c9ae/transformed/customview-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.2.0] /home/fend/.gradle/caches/9.5.0/transforms/bea26e33e880563f5bbc45c6f6f8c9ae/transformed/customview-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/fend/.gradle/caches/9.5.0/transforms/1415648f6751b79fa77c6c0dd7dbe9f8/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/fend/.gradle/caches/9.5.0/transforms/1415648f6751b79fa77c6c0dd7dbe9f8/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/8d81e87a4d1211b2129836e957cbe4b0/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/8d81e87a4d1211b2129836e957cbe4b0/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/1771c8eca8ee93df71c9c54b03e051f6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/1771c8eca8ee93df71c9c54b03e051f6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/10835881c02ef0d9a5d31abcf03003e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/10835881c02ef0d9a5d31abcf03003e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/fbee35dc2100a455c4699d7d50fc2c5c/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/fbee35dc2100a455c4699d7d50fc2c5c/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c956f798c6865e2f636c76e184f89697/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c956f798c6865e2f636c76e184f89697/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/81a11ca0c2c19a59a3836d2f8e895e40/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/81a11ca0c2c19a59a3836d2f8e895e40/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/3ca6714a89f89563369fee8c36aee852/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/3ca6714a89f89563369fee8c36aee852/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/fend/.gradle/caches/9.5.0/transforms/bf644b7349894a9799476ae6e5b80271/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/fend/.gradle/caches/9.5.0/transforms/bf644b7349894a9799476ae6e5b80271/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/69d25f31276594bf227f84508b470a0f/transformed/core-ktx-1.19.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/69d25f31276594bf227f84508b470a0f/transformed/core-ktx-1.19.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/fend/.gradle/caches/9.5.0/transforms/bfb8387c231f45aaf17f760d9866ba2b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/fend/.gradle/caches/9.5.0/transforms/bfb8387c231f45aaf17f760d9866ba2b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c65212a90474b370f59706277b6df10c/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/c65212a90474b370f59706277b6df10c/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/2105686e1504d61ce4c10aabd026b9ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/2105686e1504d61ce4c10aabd026b9ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/c297000f72d4c3e438e5eb447e613663/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/fend/.gradle/caches/9.5.0/transforms/c297000f72d4c3e438e5eb447e613663/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1b7d6b89cd77a16e008da1ff46d726a9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1b7d6b89cd77a16e008da1ff46d726a9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/8534cf67b4dd7139f043dec56c6d93b4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/8534cf67b4dd7139f043dec56c6d93b4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/a23c2f841721f2a80a1a7a34e243b0b5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/a23c2f841721f2a80a1a7a34e243b0b5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/fend/.gradle/caches/9.5.0/transforms/450457729fa6fe2222bd3e4f4c5102fc/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/fend/.gradle/caches/9.5.0/transforms/450457729fa6fe2222bd3e4f4c5102fc/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1f21ba7baa0a2ddfed88eb994956fb30/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/1f21ba7baa0a2ddfed88eb994956fb30/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/d0d49798a0d050e3e9a6dd6d91f31727/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/d0d49798a0d050e3e9a6dd6d91f31727/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/fend/.gradle/caches/9.5.0/transforms/ba33f5e1cc0fee0371a30e4885e9ac37/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/fend/.gradle/caches/9.5.0/transforms/ba33f5e1cc0fee0371a30e4885e9ac37/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/fc949c28144f78f83ac3e2d6050a7dd8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/fc949c28144f78f83ac3e2d6050a7dd8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/65ccea2c49cb38e6863e5e9cf324ac3c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fend/.gradle/caches/9.5.0/transforms/65ccea2c49cb38e6863e5e9cf324ac3c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/fend/.gradle/caches/9.5.0/transforms/e82a144d4ff9c5cc710593c498a20e84/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/fend/.gradle/caches/9.5.0/transforms/e82a144d4ff9c5cc710593c498a20e84/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/fend/.gradle/caches/9.5.0/transforms/198f646ebd417043849d186e6bde1738/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /home/fend/.gradle/caches/9.5.0/transforms/198f646ebd417043849d186e6bde1738/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fend/antigravity/tp07-ddm/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:10:22-76
+queries
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:15:5-23:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:http
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:16:9-22:18
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:17:13-65
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:17:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:19:13-74
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:19:23-71
+data
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:21:13-43
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:21:19-40
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:26:9-28:69
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/fend/.gradle/caches/9.5.0/transforms/0aa9651d546a89ef03bdca90b2f321ea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/fend/.gradle/caches/9.5.0/transforms/0aa9651d546a89ef03bdca90b2f321ea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:27:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:29:9-31:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:31:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:30:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:33:9-37:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:36:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:34:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:38:9-42:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:41:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:40:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:42:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:39:13-76
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:43:9-47:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:46:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:45:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:47:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:44:13-86
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:48:9-52:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:51:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:52:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:49:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:56:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:54:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:58:9-62:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:61:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:62:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:59:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:63:9-67:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:66:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:67:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:64:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:68:9-72:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:71:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:72:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:70:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:69:13-83
+activity#com.firebase.ui.auth.ui.email.WelcomeBackEmailLinkPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:73:9-77:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:76:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:77:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:74:13-84
+activity#com.firebase.ui.auth.ui.email.EmailLinkCatcherActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:78:9-83:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:81:13-29
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:83:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:80:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:82:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:79:13-82
+activity#com.firebase.ui.auth.ui.email.EmailLinkErrorRecoveryActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:84:9-88:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:87:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:88:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:85:13-88
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:89:9-92:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:92:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:90:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:93:9-97:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:96:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:97:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:95:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:94:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:98:9-110:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:100:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:101:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:99:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:102:13-109:29
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:105:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:105:27-73
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:112:9-116:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:114:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:115:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:116:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:8.0.2] /home/fend/.gradle/caches/9.5.0/transforms/ac746c05bba57222a73cf1236af847e3/transformed/firebase-ui-auth-8.0.2/AndroidManifest.xml:113:13-79
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/d0d49798a0d050e3e9a6dd6d91f31727/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fend/.gradle/caches/9.5.0/transforms/d0d49798a0d050e3e9a6dd6d91f31727/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/fend/.gradle/caches/9.5.0/transforms/5d80adaf5b37e46251be89a3d4e20154/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:35:13-45:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/fend/.gradle/caches/9.5.0/transforms/b804a6a947ed5885f247b2fc3f151eb1/transformed/firebase-auth-23.1.0/AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/fend/.gradle/caches/9.5.0/transforms/98b7b1d4a72b9cc321ed8972744f8ff7/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/fend/.gradle/caches/9.5.0/transforms/682ad578cdb6cbc111a57d4b03e2064c/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/fend/.gradle/caches/9.5.0/transforms/28cb2338981668973ca4bd10e55088a8/transformed/recaptcha-18.5.1/AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/efd0fe09197cb48486e831278747e242/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/fend/.gradle/caches/9.5.0/transforms/0afa8410c48dc6e0a245a603ba9295f2/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/fend/.gradle/caches/9.5.0/transforms/eba881227cbd6153ea36eb7c2d71537f/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/fend/.gradle/caches/9.5.0/transforms/de2db5e5d3f04c8c505ea3c517bf2fc1/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:23:9-81
+permission#com.example.appfirebaseauth.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.appfirebaseauth.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /home/fend/.gradle/caches/9.5.0/transforms/bb235dcd13fe1702ebae11c17e3229b2/transformed/core-1.19.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fend/.gradle/caches/9.5.0/transforms/f40b642804233c2dba6c291fc852861c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /home/fend/.gradle/caches/9.5.0/transforms/e2f205144ee3afa914f050e964009108/transformed/core-common-2.0.3/AndroidManifest.xml:15:13-93
