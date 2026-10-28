@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140022407267",
+    "project_id": "tp07-ddm",
+    "storage_bucket": "tp07-ddm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140022407267:android:942a47cefd8ac60a361856",
+        "android_client_info": {
+          "package_name": "com.example.appfirebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKF_CoThcYRWGlxHp5z_NG3PsVfmgYUIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

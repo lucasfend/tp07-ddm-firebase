@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppFirebaseAuth</string>
+    <string name="titulo_login">Autenticação FirebaseUI</string>
+    <string name="subtitulo_login">Entre na sua conta ou cadastre um novo usuário</string>
+    <string name="hint_nome">Nome completo</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha (mínimo 6 caracteres)</string>
+    <string name="hint_confirmar_senha">Confirmar senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_entrar_firebaseui">Entrar / Cadastrar via FirebaseUI</string>
+    <string name="btn_ir_cadastro">Criar nova conta (Cadastrar usuário)</string>
+    <string name="titulo_cadastro">Cadastro de Usuário</string>
+    <string name="subtitulo_cadastro">Preencha os dados abaixo para criar sua conta no Firebase</string>
+    <string name="btn_cadastrar">Cadastrar Usuário</string>
+    <string name="btn_voltar_login">Voltar para a Tela de Login</string>
+    <string name="titulo_home">Área Logada do Aplicativo</string>
+    <string name="btn_sair">Sair e Retornar ao Login</string>
+    <string name="btn_excluir_conta">Excluir Conta</string>
+</resources>
